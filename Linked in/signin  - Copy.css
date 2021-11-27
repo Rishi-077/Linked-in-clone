@@ -1,0 +1,64 @@
+#section1 nav {
+    color: #023e8a;
+}
+
+#section1 h2 {
+    font-size: 40px;
+   
+}
+
+#section1 p {
+    font-weight: 400;
+}
+
+#section1 form #email{
+    padding: 10px 20px;
+    display: block;
+    padding-right: 150px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#section1 form #password{
+    padding: 10px 20px;
+    display: block;
+    padding-right: 150px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+section .blurb {
+    margin-left: 50px;
+}
+
+#section1 .big {
+    color: #023e8a;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#section1 button {
+    display: block;
+    border: 2px solid #023e8a;
+    background-color: #023e8a;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 15px 150px 15px 150px;
+    border-radius: 30px;
+}
+
+#section2 p {
+    color: rgb(0, 0, 0);
+    margin-left: 80px;
+    
+}
+#section2 span {
+    color: #023e8a;
+    font-weight: 600;
+    font-size: 20px;
+}
