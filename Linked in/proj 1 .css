@@ -270,6 +270,9 @@ body {
     background-color: whitesmoke;
     padding-top: 40px;
 }
+#section8 li {
+    list-style-type: none;
+}
 
 #section8 li a {
     list-style-type: none;
